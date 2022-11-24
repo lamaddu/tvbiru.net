@@ -773,82 +773,31 @@ http://golive.yn.lt/live/seriea/25.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="live2" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 2
+http://golive.yn.lt/live/bola/01.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 3
 http://golive.yn.lt/live/bola/02.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 3
+#EXTINF:-1 tvg-ID="live4" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 4
+http://golive.yn.lt/live/bola/03.m3u8
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="live5" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 5
 http://golive.yn.lt/live/bola/04.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 4
-http://golive.yn.lt/live/bola/06.m3u8
-
-
+#EXTINF:-1 tvg-ID="live6" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 6
+http://golive.yn.lt/live/bola/05.m3u8
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live1" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 1
-http://golive.yn.lt/live/seriea/25.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live2" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 2
-http://golive.yn.lt/live/bola/01.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 3
-http://golive.yn.lt/live/bola/04.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 4
-http://golive.yn.lt/live/bola/06.m3u8
-
-
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live1" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 1
-http://golive.yn.lt/live/seriea/25.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live2" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 2
-http://golive.yn.lt/live/bola/01.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 3
-http://golive.yn.lt/live/bola/04.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 4
-http://golive.yn.lt/live/bola/06.m3u8
-
-
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live1" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 1
-http://golive.yn.lt/live/seriea/25.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live2" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 2
-http://golive.yn.lt/live/bola/01.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 3
-http://golive.yn.lt/live/bola/04.m3u8
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="live3" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 4
+#EXTINF:-1 tvg-ID="live7" tvg-logo="https://s.id/1pSQw" group-title="SPORT",LIVE 7
 http://golive.yn.lt/live/bola/06.m3u8
 
 
